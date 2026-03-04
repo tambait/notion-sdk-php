@@ -1,6 +1,6 @@
 {
-    "name": "mariosimao/notion-sdk-php",
-    "description": "A complete Notion SDK for PHP developers.",
+    "name": "tambait/notion-sdk-php",
+    "description": "Fork. A complete Notion SDK for PHP developers.",
     "type": "library",
     "license": "MIT",
     "homepage": "https://mariosimao.github.io/notion-sdk-php",
